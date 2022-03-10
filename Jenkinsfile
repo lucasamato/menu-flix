@@ -13,4 +13,5 @@ pipeline {
                 echo "Building the application"
             }
         }
-}
+  }
+ }
